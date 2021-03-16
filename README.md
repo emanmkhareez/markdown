@@ -4,10 +4,12 @@ set of symbol can use it to write code similar html css code on github this symb
 
 there are many symbols can use it example
 Headers 
-# this symbol meaning <h1>Eman</h1>...#######meaning<h6>
-Emphasis
-*hello* This text will be italic
-** whats your name** This text will be bold
+ # (#) this symbol meaning <h1> Eman</h1>...####### meaning ><h6>
+Emphasis.
+  
+ 
+*hello* (*hello*) This text will be italic
+**whats your name** (**whats your name**) This text will be bold
 Images
 Format: ![fllower](https://images.unsplash.com/photo-1526047932273-341f2a7631f9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvd2Vyc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 and so on
